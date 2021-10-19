@@ -14,7 +14,7 @@ const gui = new dat.GUI()
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
 // Scene
-const scene = new THREE.Scene()
+const scene = new THREE.Scene();
 // Objects
 //3d planet
 var model;
